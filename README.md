@@ -1,7 +1,12 @@
 # BERT-notebooks
-## These notebooks make training BERT and friends FAST AND EASY.
+## Make training BERT and friends FAST AND EASY.
 
-### Implements best practices for BERT classification tasks. Ideal for use on social media text
+### Ideal for BERT classification on social media text
 1. Handles unbalanced data with class weightings
 2. Cleans data using unidecode, demojize, and removes hashtags
 3. Augments data using backtranslation and contextual word embeddings
+
+### Usage:
+Open the notebook on your preferred cloud computing program such as Colab
+Import your data in the "Import Data" section
+Define the constants in the "Define Constants" section
